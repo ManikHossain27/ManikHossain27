@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Manik Hossain
 #### A passionate Software Quality Assurance Engineer
-![A passionate Software Quality Assurance Engineer](![Cover photo](https://github.com/ManikHossain27/ManikHossain27/assets/131261253/db8c04ed-6f09-4926-a763-3ba8d0d8725b))
+![Cover photo](https://github.com/ManikHossain27/ManikHossain27/assets/131261253/db8c04ed-6f09-4926-a763-3ba8d0d8725b)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manikhossain27&label=Profile%20views&color=0e75b6&style=flat" alt="manikhossain27" /> </p>
 
 
 Skills: JAVA / SELENIUM / POSTMAN / GIT / JENKINS / JS / PYTHON/ HTML / CSS / BOOTSTRAP / PHP
