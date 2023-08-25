@@ -43,7 +43,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ManikHossain27&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/ManikHossain27)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ManikHossain27)  
 
