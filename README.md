@@ -1,5 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikhossain27&label=Profile%20views&color=0e75b6&style=flat" alt="manikhossain27" /> </p>
 [![](https://visitcount.itsvg.in/api?id=ManikHossain27&icon=0&color=0)](https://visitcount.itsvg.in)
+# 💫 About Me:
+🔭I’m currently working on Automation, Manual, API and Performance Testing,<br>💬 Ask me about Automation, Manual, API and Performance Testing<br>📫 How to reach me: manik.hossain_27@outlook.com
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%233B3838&size=25&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Manik+Hossain" />
 </h2>
 
