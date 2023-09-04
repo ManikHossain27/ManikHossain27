@@ -15,7 +15,7 @@
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 
-![Selenium](https://img.shields.io/badge/selenium?style=for-the-badge&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
