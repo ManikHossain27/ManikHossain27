@@ -15,9 +15,12 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Selenium](https://img.shields.io/badge/Selenium-%234D78F0.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-%232C2D72.svg?style=for-the-badge&logo=pytest&logoColor=white)
+![Behave](https://img.shields.io/badge/Behave-%23f0ad4e.svg?style=for-the-badge&logo=behave&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![JMeter](https://img.shields.io/badge/JMeter-%23D70040.svg?style=for-the-badge&logo=apache-jmeter&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
