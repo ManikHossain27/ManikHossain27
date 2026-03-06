@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Automation, Manual, API and Performance Testing,<br>💬 Ask me about Automation, Manual, API and Performance Testing<br>📫 How to reach me: manik.hossain_27@outlook.com
+🔭 I’m currently working on Automation, Manual, API and Performance Testing,<br>💬 Ask me about Automation, Manual, API and Performance Testing<br>📫 How to reach me: manik.hossain2706@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manik27) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/manik.hossain.35110)
@@ -17,6 +17,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Selenium](https://img.shields.io/badge/Selenium-%234D78F0.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-%232C2D72.svg?style=for-the-badge&logo=pytest&logoColor=white)
 ![Behave](https://img.shields.io/badge/Behave-%23f0ad4e.svg?style=for-the-badge&logo=behave&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
